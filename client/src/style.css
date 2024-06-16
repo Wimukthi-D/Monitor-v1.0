@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .font-space-mono {
+    font-family: 'Space Mono', monospace;
+  }
+}
